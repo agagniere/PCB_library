@@ -1,0 +1,12 @@
+(librepcb_library 67068400-15fa-470a-8125-dd9332a94688
+ (name "Local")
+ (description "")
+ (keywords "")
+ (author "Antoine Gagniere")
+ (version "0.1")
+ (created 2024-04-06T12:38:24Z)
+ (deprecated false)
+ (url "https://github.com/agagniere/PCB_library")
+ (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
+ (manufacturer "")
+)
