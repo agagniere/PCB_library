@@ -1,6 +1,6 @@
 (librepcb_symbol 8a82dac1-26c7-4cbb-868e-2456ed9c7b84
- (name "Nand")
- (description "Binary Inverted AND")
+ (name "Nand (with reference voltages)")
+ (description "Binary Inverted AND, with 2 pins for the low and high voltages.")
  (keywords "binary")
  (author "Antoine Gagniere")
  (version "0.1")
@@ -50,5 +50,8 @@
  )
  (text ec1bd430-37f1-42b9-b357-533fd005f459 (layer sym_names) (value "{{NAME}}")
   (align center center) (height 2.5) (position 0.0 0.0) (rotation 0.0)
+ )
+ (text 2cf98a32-379f-4ea8-8c87-784c1b032e16 (layer sym_values) (value "{{VALUE}}")
+  (align left bottom) (height 2.5) (position 0.0 5.08) (rotation 0.0)
  )
 )
