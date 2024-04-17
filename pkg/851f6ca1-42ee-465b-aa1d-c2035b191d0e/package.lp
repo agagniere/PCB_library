@@ -23,10 +23,12 @@
  (pad 40e04236-80d6-495d-b330-3beea316dd7a (name "12"))
  (pad e87efc8c-c722-47a1-a050-40883a542f5d (name "13"))
  (pad f9f3aaec-4434-4342-ae2d-7f3f2596684f (name "14"))
+ (3d_model a973715d-5cde-4535-8e3b-9254e16eb546 (name "Socket"))
  (footprint 7ef3bca4-61e9-473c-ae05-c8e08994cd2f
   (name "hand soldering")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 0.0 5.0) (3d_rotation 0.0 0.0 90.0)
+  (3d_model a973715d-5cde-4535-8e3b-9254e16eb546)
   (pad c27b1955-f544-4f57-8210-95488bb4740a (side top) (shape roundrect)
    (position -3.81 7.62) (rotation 0.0) (size 2.54 1.27) (radius 0.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
@@ -211,7 +213,8 @@
  (footprint eac89ad3-028a-4fa4-a4c3-b4efdab5a4be
   (name "compact")
   (description "")
-  (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_position 0.0 0.0 5.0) (3d_rotation 0.0 0.0 90.0)
+  (3d_model a973715d-5cde-4535-8e3b-9254e16eb546)
   (pad e8462d42-8aa9-490a-90fc-ffba93ddea78 (side top) (shape roundrect)
    (position -3.81 7.62) (rotation 0.0) (size 1.6 1.6) (radius 0.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)

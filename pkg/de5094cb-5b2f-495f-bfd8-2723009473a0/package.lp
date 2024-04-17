@@ -5,7 +5,7 @@
  (author "Antoine Gagniere")
  (version "0.1")
  (created 2024-04-12T21:51:26Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category 241d9d5d-8f74-4740-8901-3cf51cf50091)
  (assembly_type smt)

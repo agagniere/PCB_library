@@ -5,7 +5,7 @@
  (author "Antoine Gagniere")
  (version "0.1")
  (created 2024-04-07T18:20:51Z)
- (deprecated false)
+ (deprecated true)
  (generated_by "")
  (category f4abe9d8-20b1-4818-a007-0f1b527e621d)
  (pin cf932627-33bd-4b3c-89cc-43b88d2bd137 (name "DATA")
