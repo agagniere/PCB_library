@@ -1,5 +1,5 @@
 (librepcb_package 743364dd-5548-496a-8dca-970dc3533e2a
- (name "DIP8-P-300-2.54")
+ (name "DIP8")
  (description "8-lead DIP (Dual In-Line) package\n\nPitch: 2.54mm\nLead span: 7.62mm\nBody length: 9.65mm\nLead width: 0.55mm\nMax height: 5.33mm\n\nGenerated with librepcb-parts-generator (generate_dip.py)")
  (keywords "dip8,pdip8,dip,pdip,cdip,cerdip,dual inline package")
  (author "Antoine Gagniere")

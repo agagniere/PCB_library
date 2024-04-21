@@ -1,6 +1,6 @@
 (librepcb_device a4b80f48-9775-48f9-958c-c0722d844f23
  (name "RS-Pro 734-6974")
- (description "SPDT Toggle Switch On-On\n\nIP67\n\nDatasheet: https://docs.rs-online.com/f100/0900766b815875d0.pdf")
+ (description "SPDT Toggle Switch On-On\n\nIP67\n\nDatasheet: https://docs.rs-online.com/f100/0900766b815875d0.pdf\n\nCurrent guess:\n - up = B\n- down = A")
  (keywords "")
  (author "Antoine Gagniere")
  (version "0.1")

@@ -1,5 +1,5 @@
 (librepcb_package 851f6ca1-42ee-465b-aa1d-c2035b191d0e
- (name "Toshiba DIP14-P-300-2.54")
+ (name "DIP14")
  (description "14-lead DIP (Dual In-Line) package (JEDEC MS001 AA)\n\nPitch: 2.54mm\nLead span: 7.62mm\nBody length: 19.05mm\nLead width: 0.55mm\nMax height: 5.33mm\n\nCopied from DIP762W55P254L1905H533Q14")
  (keywords "dip14,pdip14,dip,pdip,cdip,cerdip,dual inline package")
  (author "Antoine Gagniere")

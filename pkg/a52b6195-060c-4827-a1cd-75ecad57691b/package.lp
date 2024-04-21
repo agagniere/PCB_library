@@ -1,5 +1,5 @@
 (librepcb_package a52b6195-060c-4827-a1cd-75ecad57691b
- (name "Toshiba DIP16-P-300-2.54")
+ (name "DIP16")
  (description "16-lead DIP (Dual In-Line) package (JEDEC MS001 AB)\n\nPitch: 2.54mm\nLead span: 7.62mm\nBody length: 20.07mm\nLead width: 0.55mm\nMax height: 5.33mm")
  (keywords "dip16,pdip16,dip,pdip,cdip,cerdip,dual inline package")
  (author "Antoine Gagniere")
