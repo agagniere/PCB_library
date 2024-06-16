@@ -25,4 +25,7 @@
  (part "4609X-101-331LF" (manufacturer "Bourns")
   (attribute "RESISTANCE" (type resistance) (unit ohm) (value "330"))
  )
+ (part "4609X-101-222LF" (manufacturer "Bourns")
+  (attribute "RESISTANCE" (type resistance) (unit kiloohm) (value "2.2"))
+ )
 )
