@@ -12,10 +12,12 @@
  (pad fc7fbba7-100a-43fa-98cf-757960d78872 (name "1"))
  (pad 406c1135-19c4-4a4f-bd8c-d03f4999caaf (name "Chassis"))
  (pad c02b7965-d4d0-456e-a0e6-8436d1ebc808 (name "3"))
+ (3d_model 6f4faa69-de84-4f05-ba54-3df91c57936a (name "button"))
  (footprint 4e0748fa-e716-4d8b-9b6b-aca191e9cff3
   (name "vertical")
   (description "")
   (3d_position 0.0 0.0 0.0) (3d_rotation 0.0 0.0 0.0)
+  (3d_model 6f4faa69-de84-4f05-ba54-3df91c57936a)
   (pad 9e54f9db-f062-47c3-9e54-d9f036bf1ce4 (side top) (shape roundrect)
    (position 0.0 0.0) (rotation 0.0) (size 2.1 1.6) (radius 1.0)
    (stop_mask auto) (solder_paste off) (clearance 0.0) (function standard)
